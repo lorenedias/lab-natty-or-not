@@ -3,19 +3,20 @@
 ## 🚀 Introdução
 
 > Woooow! Look at this 👀
+Inspirado na hype "Natty or Not" do fisiculturismo. Exploraremos o potencial dessas tendências tecnológicas incríveis.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Projeto desenvolvido para o realização do desafio Natural ou Fake Natty, do Bootcamp de Inteligência Artificial.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🎯 Desafio!
 
 ### Objetivos
 
 1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
 1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
+    1. Faça o "fork" do repositório[https://github.com/digitalinnovationone/lab-natty-or-not], criando uma cópia em seu GitHub pessoal;
+    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template;
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+2. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
 ### Template
 
@@ -23,22 +24,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de um e-book com inteligência artificial, sobre o tema "Inteligência Artificial no Dia a Dia". 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+    - ChatGPT
+    - Lexica
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi elaborado um prompt para execução no ChatGPT, com o objetivo de agir como um redator de e-book, com o objetivo de explicar o tema para uma criança de 10 anos de idade.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+- [E-BOOK](/resultado/E-BOOK.md)
 
-### Exemplos e Insigths
+### Exemplos
 
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
